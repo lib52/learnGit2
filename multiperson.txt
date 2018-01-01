@@ -1,4 +1,8 @@
 multi person
+<<<<<<< HEAD
 asus add something
 
 asus add something again
+=======
+
+all that were added by levovo were deleted
