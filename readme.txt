@@ -5,5 +5,6 @@ Git has a mutable index called stage.
 
 creating branch is quick and simple
 no fast forward
+bug
 
 
